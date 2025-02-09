@@ -50,18 +50,23 @@ Ready to dive into the code? Here’s how to get it up and running on your machi
 ```sh
 git clone git@github.com:AdrianAlfauzan/YOUAPP-TEST-2025.git
 ```
+2. **Navigate into the project folder:**
 
 ```sh
 cd youapp-test
 ```
 
+3. **Install Dependecies**
+   
 ```sh
 npm install
 ```
 
+4. **Run the development server:**
+   
 ```sh
 npm run dev
 ```
 
-**Access the app in your browser at:**
+5. **Access the app in your browser at:**
 http://localhost:3000
